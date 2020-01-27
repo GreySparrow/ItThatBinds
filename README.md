@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ####Table
+
 |                 |      |                |      |      | 
 |-----------------|------|----------------|------|------| 
 | Sally Whittaker | 2018 | McCarren House | 312  | 3.75 | 
