@@ -25,6 +25,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+####Table
+|                 |      |                |      |      | 
+|-----------------|------|----------------|------|------| 
+| Sally Whittaker | 2018 | McCarren House | 312  | 3.75 | 
+| Belinda Jameson | 2017 | Cushing House  | 148  | 3.52 | 
+| Jeff Smith      | 2018 | Prescott House | 17-D | 3.20 | 
+| Sandy Allen     | 2019 | Oliver House   | 108  | 3.48 | 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
