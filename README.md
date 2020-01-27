@@ -34,6 +34,11 @@ Syntax highlighted code block
 | Jeff Smith      | 2018 | Prescott House | 17-D | 3.20 | 
 | Sandy Allen     | 2019 | Oliver House   | 108  | 3.48 | 
 
+>Sample
+>Block
+>Quote
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
